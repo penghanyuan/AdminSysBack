@@ -1,6 +1,7 @@
 ## Environment
 - PHP > 5.7
 - Composer
+- mysql
 
 ## Installation
 Download project and run `composer install` to install the dependencies. Then run `php artisan serve` to lunch a web server.

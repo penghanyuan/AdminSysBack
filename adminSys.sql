@@ -13,7 +13,8 @@
 
  Date: 05/03/2018 08:35:42
 */
-
+CREATE DATABASE adminSys;
+USE adminSys;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
